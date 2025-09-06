@@ -5,6 +5,7 @@ langchain-community==0.3.20
 openai==1.69.0
 pdf2image
 chromadb==0.4.15
+pysqlite3-binary
 pypdf
 tiktoken
 python-dotenv
