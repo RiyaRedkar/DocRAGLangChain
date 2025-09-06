@@ -1,0 +1,11 @@
+langchain==0.3.21
+langchain-core==0.3.49
+langchain-openai==0.3.11
+langchain-community==0.3.20
+openai==1.69.0
+pdf2image
+chromadb==0.4.15
+pypdf
+tiktoken
+python-dotenv
+streamlit
